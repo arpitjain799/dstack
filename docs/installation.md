@@ -202,13 +202,6 @@ That's it! You've configured AWS as a remote.
 
 ## Configure a GCP remote
 
-!!! info "NOTE:"
-    Support for GCP is experimental. In order to try it, make sure to install the `0.2rc1` version of `dstack`:
-
-    ```shell hl_lines="1"
-    pip install dstack==0.2rc1
-    ```
-
 ### 1. Create a project
 
 In order to use GCP as a remote, you first have to create a project in your GCP account
